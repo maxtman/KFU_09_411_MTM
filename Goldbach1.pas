@@ -1,3 +1,4 @@
+//Version without function + optimization
 uses PABCSystem;
 
 var x,i,j,y1,y2,m,q:integer;
